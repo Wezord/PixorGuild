@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixor_guild",
+  "name": "Pixor Guild",
+  "description": "Gestion des guildes pour Pixor",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Snyker"],
+  "credits": "Snyker, PixorTeam",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+commands.pixor.guild.usage="Vérifiez que votre commande est la bonne."
+commands.pixor.guild.create.arguments="Il manque des arguments dans la création de la guilde."
+commands.pixor.guild.create.pattern="Le nom de la guilde ne convient pas, vérifiez le nom : (alphabet, tiret, apostrophe et espace)."
+commands.pixor.guild.denied="Vous n'avez pas la permission d'utiliser cette commande."
+commands.pixor.guild.create.success="Votre guilde {$1} a bien été crée."
+commands.pixor.guild.exists="Cette guilde existe déjà"
